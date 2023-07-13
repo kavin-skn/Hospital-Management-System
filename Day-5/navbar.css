@@ -1,0 +1,14 @@
+.Account{
+    margin-left: 45vw;
+    flex-direction: column-reverse;
+    
+}
+
+
+.h3{
+    text-align: center;
+}
+
+*{
+    text-align: center;
+}
