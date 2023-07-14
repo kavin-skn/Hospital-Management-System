@@ -1,0 +1,25 @@
+.Account{
+    margin-left: 39vw;
+    flex-direction: column-reverse;
+    
+}
+
+
+.h3{
+    text-align: center;
+}
+
+*{
+    text-align: center;
+}
+.back{
+ 
+    text-decoration:solid;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("https://i2.wp.com/i.pinimg.com/originals/07/98/ad/0798adf9c191e928d86114726aaee261.jpg");
+   background-repeat: no-repeat;
+   background-size: cover;
+    width: 100vw;
+    background-position:fixed;
+    margin-left: -36vw;
+}
